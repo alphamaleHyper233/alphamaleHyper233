@@ -49,9 +49,7 @@ pixel 2d Mixed genre game
 ---
 
 ## ⚙️ GitHub Stats
-![AlphamaleHyper233's GitHub stats](https://github-readme-stats.vercel.app/api?username=alphamaleHyper233&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphamaleHyper233&layout=compact&theme=dark)
+![AlphamaleHyper233's GitHub stats](https://github-readme-stats.vercel.app/api?username=alphamaleHyper233&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphamaleHyper233&layout=compact&theme=dark)
 
 ---
 

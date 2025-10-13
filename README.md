@@ -2,9 +2,7 @@
 
 🎮 **Game Developer | Game Art Designer | Web Developer**  
 💻 Passionate about art and coding Making my imagination playable by anyone.
-🎓 Currently a Student
-
----
+🎓 Currently a Student  
 
 ## 🧩 About Me
 - 🧠 Game director of a **Game Development Team** (Necromanzaaa)  
@@ -36,17 +34,14 @@
 - Collaborating with my dev team on indie projects
 - Currentlly working on a Game Called **6 Senses** inspired by **There is no game** and the Humor of **Borderlands 2**
 pixel 2d Mixed genre game
-- posting Devlogs at Instagram currently but youtube we are coming fo yo ass
-
----
+- posting Devlogs at Instagram currently but youtube we are coming fo yo ass  
 
 ### extra:
 ## 🌐 School Contributions
 🧭 I also built:
 - **Survey hubs** for schools
-- **School Statistics Dashboard**  
+- **School Statistics Dashboard**   
 
----
 
 ## ⚙️ GitHub Stats
 ![AlphamaleHyper233's GitHub stats](https://github-readme-stats.vercel.app/api?username=alphamaleHyper233&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphamaleHyper233&layout=compact&theme=dark)

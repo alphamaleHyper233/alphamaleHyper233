@@ -16,15 +16,7 @@
 
 ## 💻 Languages & Tools I Use
 
-### 🔤 Programming Languages
-| Language | Description |
-|-----------|--------------|
-| ☕ **Java** |
-| 🧱 **Oracle (SQL/PL-SQL)** |
-| 🕹️ **Godot (GDScript)** | Currently the programming language we use for game development |
-| 🐘 **PHP** |
-| ⚡ **JavaScript** |
-| 🧩 **Lua** | Only studied this for Roblox game engine 🥀✌️😹 |
+### 🔤 Programming Languages 
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -47,24 +39,6 @@
 - Working on a game called **6 Senses** — inspired by *There Is No Game* and the humor of *Borderlands 2*  
   > A pixel 2D mixed-genre game that blends narrative, puzzles, and humor  
 - Posting devlogs on **Instagram**, with **YouTube** content coming soon 👀  
-
----
-
-## 🎨 Design & Art Skills
-🖌️ Aside from programming, I also focus on creative design and digital art:
-- 🎨 **Pixel Art & Concept Design** – Character, environment, and item art  
-- 🧩 **UI/UX Design** – Intuitive layouts for both games and web apps  
-- 🖥️ **Web Design** – Clean interfaces and responsive designs  
-- 🧠 **Graphic Design** – Posters, logos, and promotional visuals  
-- 🖋️ **Story & Aesthetic Direction** – Shaping game tone, world-building, and visuals  
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
-</p>
 
 ---
 

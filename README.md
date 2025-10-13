@@ -17,7 +17,7 @@
 - 🌱 Currently improving my skills in **Game Development** and **Digital Art**  
 
 ---
-
+<div align="center">
 ## 💻 Languages & Tools I Use
 
 ### 🔤 Programming Languages 
@@ -30,7 +30,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
 </div>
-
+</div>
 ---
 
 ## 🕹️ Game Development

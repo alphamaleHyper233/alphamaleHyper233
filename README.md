@@ -60,7 +60,7 @@
 ---
 
 ## 🎨 “Make Imaginations Playable”
-> Turning ideas into interactive experiences — one project at a time.  
+> Turning ideas into interactive experiences one project at a time.  
 
 📫 **Contact me at:**  
 🌐 [Facebook](https://www.facebook.com/sean.gianan.37/)  

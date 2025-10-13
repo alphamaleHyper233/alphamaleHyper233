@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hey there, I'm **Sean**
 
 🎮 **Game Developer | Game Art Designer | Web Developer**  
@@ -5,6 +7,8 @@
 🎓 Currently a Student  
 
 ---
+
+</div>
 
 ## 🧩 About Me
 - 🧠 Game Director of a **Game Development Team** (*Necromanzaaa*)  
@@ -18,15 +22,14 @@
 
 ### 🔤 Programming Languages 
 
-<p align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
-</p>
-
+</div>
 
 ---
 
@@ -49,6 +52,8 @@
 
 ---
 
+<div align="center">
+
 ## ⚙️ GitHub Stats
 ![AlphamaleHyper233's GitHub stats](https://github-readme-stats.vercel.app/api?username=alphamaleHyper233&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphamaleHyper233&layout=compact&theme=dark)
@@ -63,3 +68,6 @@
 📧 Email: **seangianan5@gmail.com**
 
 ---
+
+</div>
+

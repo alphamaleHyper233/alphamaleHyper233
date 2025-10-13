@@ -2,6 +2,11 @@
 
 # 👋 Hey there, I'm **Sean**
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV3aGlxN2twaDcwNGIzZGdqc3Q5d3VrNWltMG1hZTV4czRjd2R2MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UvO9M5mE0Zc6A/giphy.gif" width="300"/>
+</p>
+
+
 🎮 **Game Developer | Game Art Designer | Web Developer**  
 💻 Passionate about art and coding — making my imagination playable by anyone.  
 🎓 Currently a Student  
@@ -44,11 +49,6 @@
 - Working on a game called **6 Senses** — inspired by *There Is No Game* and the humor of *Borderlands 2*  
   > A pixel 2D mixed-genre game that blends narrative, puzzles, and humor  
 - Posting devlogs on **Instagram**, with **YouTube** content coming soon 👀  
-
-## 🌐 School Contributions
-🧭 I also built:
-- **Survey Hubs** for schools  
-- **School Statistics Dashboards**  
 
 ---
 

@@ -3,8 +3,9 @@
 # 👋 Hey there, I'm **Sean**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXV3aGlxN2twaDcwNGIzZGdqc3Q5d3VrNWltMG1hZTV4czRjd2R2MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UvO9M5mE0Zc6A/giphy.gif" width="300"/>
+  <img src="https://www.pngarts.com/files/8/Borderlands-Transparent-Background-PNG.png" alt="Borderlands" width="300" />
 </p>
+
 
 
 🎮 **Game Developer | Game Art Designer | Web Developer**  

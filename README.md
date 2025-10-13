@@ -18,7 +18,6 @@
 
 ---
 <div align="center">
-## 💻 Languages & Tools I Use
 
 ### 🔤 Programming Languages 
 
@@ -30,6 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
 </div>
+## only learned Lua for roblox game engine✌️😹🥀
 </div>
 ---
 
@@ -42,8 +42,6 @@
 - Working on a game called **6 Senses** — inspired by *There Is No Game* and the humor of *Borderlands 2*  
   > A pixel 2D mixed-genre game that blends narrative, puzzles, and humor  
 - Posting devlogs on **Instagram**, with **YouTube** content coming soon 👀  
-
----
 
 ## 🌐 School Contributions
 🧭 I also built:

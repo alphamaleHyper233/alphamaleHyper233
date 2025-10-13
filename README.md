@@ -53,8 +53,9 @@
 <div align="center">
 
 ## ⚙️ GitHub Stats
-![AlphamaleHyper233's GitHub stats](https://github-readme-stats.vercel.app/api?username=alphamaleHyper233&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphamaleHyper233&layout=compact&theme=dark)
 
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alphamaleHyper233&show_icons=true&theme=dark" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphamaleHyper233&layout=compact&theme=dark" /
 
 ---
 

@@ -7,7 +7,7 @@
 </p> 
 
 🎮 **Game Developer | Game Art Designer | Web Developer**   
-💻 Passionate about art and coding — making my imagination playable by anyone. 
+💻 Passionate about art and coding — making my imagination playable by anyone.    
 🎓 Currently a Student 
 </div> 
 

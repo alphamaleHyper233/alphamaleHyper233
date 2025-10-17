@@ -31,8 +31,7 @@ only learned Lua for roblox game engine✌️😹🥀
 </div> 
 
 <div align="center">  
-
-## “Make Imaginations Playable”   
+   
 📫 **Contact me at:**   
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sean.gianan.37/)
 [![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seangianan5@gmail.com)

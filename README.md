@@ -6,7 +6,7 @@
 <img src="https://www.pngarts.com/files/8/Borderlands-Transparent-Background-PNG.png" alt="Borderlands" width="300" />
 </p> 
 
-🎮 **Game Developer | Game Art Designer | Web Developer** 
+🎮 **Game Developer | Game Art Designer | Web Developer**   
 💻 Passionate about art and coding — making my imagination playable by anyone. 
 🎓 Currently a Student 
 </div> 

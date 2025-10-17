@@ -1,5 +1,7 @@
-<div align="center">
+<div align="center">  
+
 # 👋 Hey there, I'm **Sean**
+
 <p align="center">
 <img src="https://www.pngarts.com/files/8/Borderlands-Transparent-Background-PNG.png" alt="Borderlands" width="300" />
 </p> 
@@ -36,11 +38,10 @@ only learned Lua for roblox game engine✌️😹🥀
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=alphamaleHyper233&show_icons=true&theme=dark" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphamaleHyper233&layout=compact&theme=dark" /> 
 </p> 
 
---- 
 ## “Make Imaginations Playable” 
 📫 **Contact me at:** 
-🌐 [Facebook](https://www.facebook.com/sean.gianan.37/) 
+🌐 [Facebook](https://www.facebook.com/sean.gianan.37/)  
+
 📧 Email: **seangianan5@gmail.com** 
 
---- 
 </div>

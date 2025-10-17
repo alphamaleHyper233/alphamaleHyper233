@@ -56,10 +56,10 @@
 <div align="center">
 
 ## ⚙️ GitHub Stats
-
+<p align= "center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=alphamaleHyper233&show_icons=true&theme=dark" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphamaleHyper233&layout=compact&theme=dark" /
-
+</p>
 ---
 
 ## 🎨 “Make Imaginations Playable”

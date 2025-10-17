@@ -39,23 +39,10 @@
 ## only learned Lua for roblox game engine✌️😹🥀
 </div>
 
----
-
-## 🕹️ Game Development
-🎮 I’m passionate about:
-- Making my imagination playable  
-- Creating my own **game art** (pixel art, concepts, 2D art)  
-- Currently using **Godot** for game development  
-- Collaborating with my dev team on indie projects  
-- Working on a game called **6 Senses** — inspired by *There Is No Game* and the humor of *Borderlands 2*  
-  > A pixel 2D mixed-genre game that blends narrative, puzzles, and humor  
-- Posting devlogs on **Instagram**, with **YouTube** content coming soon 👀  
-
----
-
 <div align="center">
 
 ## ⚙️ GitHub Stats
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=alphamaleHyper233&show_icons=true&theme=dark" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphamaleHyper233&layout=compact&theme=dark" />
@@ -63,8 +50,7 @@
 
 ---
 
-## 🎨 “Make Imaginations Playable”
-> Turning ideas into interactive experiences one project at a time.  
+## “Make Imaginations Playable”  
 
 📫 **Contact me at:**  
 🌐 [Facebook](https://www.facebook.com/sean.gianan.37/)  

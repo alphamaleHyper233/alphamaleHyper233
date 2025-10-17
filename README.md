@@ -12,8 +12,6 @@
 💻 Passionate about art and coding — making my imagination playable by anyone.  
 🎓 Currently a Student  
 
----
-
 </div>
 
 ## 🧩 About Me

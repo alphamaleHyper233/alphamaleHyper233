@@ -36,7 +36,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
 </div>
 
-## only learned Lua for roblox game engine✌️😹🥀
+ only learned Lua for roblox game engine✌️😹🥀
 </div>
 
 <div align="center">

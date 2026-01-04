@@ -6,16 +6,16 @@
 <img src="https://www.pngarts.com/files/8/Borderlands-Transparent-Background-PNG.png" alt="Borderlands" width="300" />
 </p> 
 
-🎮 **Game Developer | Game Art Designer | Web Developer**   
-💻 Passionate about art and coding — making my imagination playable by anyone.    
-🎓 Currently a Student 
+ **Game Developer | Game Art Designer | Web Developer**   
+ Passionate about art and coding — making my imagination playable by anyone.    
+ Currently a Student 
 </div> 
 
-## 🧩 About Me 
-- 🧠 Game Director of a **Game Development Team** (*Necromanzaaa*) 
-- 🎨 Experienced in **Game Art Design** (UI, characters, and environment concepts) 
-- 🕹️ I develop both **games** and **web designs** 
-- 🌱 Currently improving my skills in **Game Development** and **Digital Art** 
+##  About Me 
+-  Game Director of a **Game Development Team** (*Necromanzaaa*) 
+-  Experienced in **Game Art Design** (UI, characters, and environment concepts) 
+-  I develop both **games** and **web designs** 
+-  Currently improving my skills in **Game Development** and **Digital Art** 
 
 --- 
 

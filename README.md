@@ -1,13 +1,13 @@
 <div align="center">  
 
-# 👋 Hey there, I'm **Sean**
+# 👋 Wazzup, I'm **Sean**
 
 <p align="center">
 <img src="https://www.pngarts.com/files/8/Borderlands-Transparent-Background-PNG.png" alt="Borderlands" width="300" />
 </p> 
 
  **Game Developer | Game Art Designer | Web Developer**   
- Passionate about art and coding — making my imagination playable by anyone.    
+ Passionate about art and coding and making my imagination playable by anyone.    
  Currently a Student 
 </div> 
 
